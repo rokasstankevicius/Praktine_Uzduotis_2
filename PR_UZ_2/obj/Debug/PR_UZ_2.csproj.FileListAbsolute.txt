@@ -1,0 +1,11 @@
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_2\PR_UZ_2\bin\Debug\PR_UZ_2.exe.config
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_2\PR_UZ_2\bin\Debug\PR_UZ_2.exe
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_2\PR_UZ_2\bin\Debug\PR_UZ_2.pdb
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_2\PR_UZ_2\obj\Debug\PR_UZ_2.csproj.AssemblyReference.cache
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_2\PR_UZ_2\obj\Debug\PR_UZ_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_2\PR_UZ_2\obj\Debug\PR_UZ_2.Properties.Resources.resources
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_2\PR_UZ_2\obj\Debug\PR_UZ_2.csproj.GenerateResource.cache
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_2\PR_UZ_2\obj\Debug\PR_UZ_2.csproj.CoreCompileInputs.cache
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_2\PR_UZ_2\obj\Debug\PR_UZ_2.exe
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_2\PR_UZ_2\obj\Debug\PR_UZ_2.pdb
+C:\Users\minro\Desktop\C#\2 Year 2 Half\IS Security\PR_UZ_2\PR_UZ_2\obj\Debug\PR_UZ_2.Form1.resources
